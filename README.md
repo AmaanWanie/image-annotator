@@ -15,7 +15,7 @@ A **high-performance image annotation tool** built using **OpenCV + Tkinter**, d
 
 ### 📝 Annotation Tools  
 - Draw bounding boxes easily  
-- Saves in **YOLOv5 / YOLOv8** normalized format  
+- Saves in **YOLOv5 to YOLOv12** normalized format  
 - Class ID shown above each bounding box  
 - New labels appear instantly after annotation  
 - Clean interface with intuitive controls  
