@@ -29,3 +29,14 @@ A **high-performance image annotation tool** built using **OpenCV + Tkinter**, d
 
 ## 📁 Folder Structure
 
+project/
+├── val/
+│ ├── images/ ← JPG images
+│ └── labels/ ← YOLO txt files
+├── main.py ← Annotation tool script
+└── README.md
+
+#### YOLO labels must match image filenames:
+
+image.jpg
+image.txt
